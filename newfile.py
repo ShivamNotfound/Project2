@@ -1,7 +1,6 @@
 
-print("Than")
-print("Than2")
-print("Yog")
-print("Yog 2")
+n = int(input("Enter a number:"))
+
+print("Odd" if n%2!=0 else "Even")
 
 
