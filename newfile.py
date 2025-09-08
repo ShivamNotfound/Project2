@@ -1,1 +1,1 @@
-print("Than")
+print("Yog")
